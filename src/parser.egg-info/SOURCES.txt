@@ -1,8 +1,0 @@
-setup.py
-src/parser/__init__.py
-src/parser.egg-info/PKG-INFO
-src/parser.egg-info/SOURCES.txt
-src/parser.egg-info/dependency_links.txt
-src/parser.egg-info/not-zip-safe
-src/parser.egg-info/requires.txt
-src/parser.egg-info/top_level.txt
