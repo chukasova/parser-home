@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: parser
+Version: 0.0.1.dev0
+Summary: News parser
+Home-page: UNKNOWN
+Author: TMS
+Author-email: dmitriy.amelchenko@bpmobile.com
+License: /Users/dmitriy.amelchenko/Documents/TMS/TMS/news_parser_tms/LICENSE
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
