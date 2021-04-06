@@ -33,7 +33,7 @@ def get_requires():
 
 
 ARGS = {
-    "name": "parser",
+    "name": "prs",
     "version": VERSION,
     "author": "TMS",
     "author_email": "dmitriy.amelchenko@bpmobile.com",
