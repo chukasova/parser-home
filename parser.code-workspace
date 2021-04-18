@@ -3,9 +3,7 @@
 		{
 			"path": "."
 		},
-		{
-			"path": "../lesson12"
-		}
+		
 	],
 	"settings": {}
 }
